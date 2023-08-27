@@ -1,0 +1,17 @@
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    max-width: 30vw;
+    margin: auto;
+}
+
+.question {
+    height: 12vh;
+    background-color: transparent;
+    margin: 1rem;
+    padding: 0.8rem;
+    border: 2px solid var(--primary);
+    border-radius: 0.5rem;
+}
